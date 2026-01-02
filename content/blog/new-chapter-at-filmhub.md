@@ -1,6 +1,6 @@
 ---
 title: 'A New Chapter: From Activision to Filmhub'
-date: '2025-12-15'
+date: '2026-01-02'
 excerpt: "Reflecting on my transition from AAA gaming to film distribution tech, and why I'm more excited than ever about full stack development."
 tags: ['career', 'full-stack', 'next.js', 'typescript', 'filmhub']
 published: true

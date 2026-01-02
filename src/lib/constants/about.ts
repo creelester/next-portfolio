@@ -74,6 +74,13 @@ export const journey = [
       'Earned the Microsoft UX Design Specialization, demonstrating advanced skills in user experience and interface design.',
     icon: Award,
   },
+  {
+    year: '2025',
+    title: 'Sr Full Stack Engineer at Filmhub',
+    description:
+      'Joined Filmhub as a Senior Full Stack Engineer, building innovative solutions for film distribution and streaming technology.',
+    icon: Code2,
+  },
 ];
 
 export const values = [
